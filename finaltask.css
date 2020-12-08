@@ -1,0 +1,19 @@
+
+img {
+	opacity: 1.0;
+}
+
+img:hover {
+	opacity: 0.5;
+}
+
+
+.footer {
+    height: 60;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+    background: #333;
+    color: white;
+  }
+
